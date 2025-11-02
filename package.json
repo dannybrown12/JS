@@ -187,7 +187,7 @@
     "svg-captcha": "^1.4.0",
     "swagger-ui-express": "^5.0.0",
     "ts-node-dev": "^1.1.6",
-    "typeorm": "0.2.24",
+    "typeorm": "0.3.26",
     "unzipper": "0.9.15",
     "web3": "^4.0.3",
     "winston": "^3.3.3",
